@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Anne Smyth, the wife of Daniell Smyth, one of the daughters of Sir John Danvers of Culworth in the county of Northampton Kt, deceased, truly stated. Humbly tendred to the consideration of the supreme authority of England, the Commons assembled in Parliament.</title>
+            <author>Smyth, Anne.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93435</idno>
+            <idno type="STC">Wing S4358</idno>
+            <idno type="STC">Thomason 669.f.15[61]</idno>
+            <idno type="STC">ESTC R212044</idno>
+            <idno type="EEBO-CITATION">99870698</idno>
+            <idno type="PROQUEST">99870698</idno>
+            <idno type="VID">163135</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163135)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Anne Smyth, the wife of Daniell Smyth, one of the daughters of Sir John Danvers of Culworth in the county of Northampton Kt, deceased, truly stated. Humbly tendred to the consideration of the supreme authority of England, the Commons assembled in Parliament.</title>
+                  <author>Smyth, Anne.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inheritance and succession --  England --  Early works to 1800.</term>
+               <term>Decedents' estates --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163135:1" rendition="simple:additions"/>
+            <head>The Caſe of Anne Smyth, the wife of Daniell Smyth, one of the daughters of Sir John Danvers of
+Culworth in the County of Northampton K<hi rend="sup">t</hi>, deceaſed, truly ſtated.
+Humbly tendred to the Conſideration of the Supreme Authority of England,
+The COMMONS Aſſembled in Parliament.</head>
+            <opener>
+               <salute>May it pleaſe your Honours,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Bout the yeer 1642. your Petitioners Father dying, left to her by Will an eſtate of one thouſand pound, as a Portion, in the hands of Sir <hi>John
+Danvers</hi> of <hi>Chelſey</hi> Knight, who with Sir <hi>Peter Osborn</hi> Knight, his brother, were named Executors: By which ſaid Will was likewiſe deviſed
+the payment of one hundred pounds to your Petitioner, in lieu of ſo much of hers received by the Teſtator about forty years ſince, upon condi<g ref="char:EOLhyphen"/>tion
+and promiſe of improvement thereof for the uſe of the Petitioner.</p>
+            <p>Sir <hi>Peter Osborne</hi> being out of the land, your Petitioners husband applyed himſelf to Sir <hi>John Danvers</hi> of <hi>Chelſey</hi> concerning the ſaid Portion,
+who thereupon furniſhed your Petitioner with ſuch ſummes of money from time to time as then ſupplyed her extreme neceſſity; And after a
+time, profered a living at <hi>Stow</hi> in <hi>Northamptonſhire</hi> to your Petitioners husband upon a rent, who accepting it, went with his Family thither, with the good li<g ref="char:EOLhyphen"/>king
+and encouragement of the ſaid Sir <hi>John Danvers,</hi> who (with other things) gave him in charge, to give his beſt aſſiſtance to Maſter <hi>William Seller</hi> Miniſter
+there, who (as he thought) was malitiouſly proſecuted and troubled by ſome of his neighbours: which command, your Petitioners husband finding juſt cauſe,
+readily obſerved. But after a time the ſaid Sir <hi>John Danvers,</hi> being inclinable to remove the ſaid Maſter <hi>Seller,</hi> and to place there one <hi>Yates,</hi> brother to a ſervant
+of his, gave intimation thereof to your Petitioners husband, requiring now his aſſiſtance on the behalf of the ſaid <hi>Yates.</hi>
+            </p>
+            <p>But your Petitioners Husband, being abundantly ſatisfied of the unjuſt and cauſleſſe proſecution of the ſaid Maſter <hi>Seller,</hi> and alſo ſeriouſly conſidering the
+many juſt cauſes of exception againſt the ſaid <hi>Yates,</hi> (As his extreme inability and inſufficiency for the place, his very ſcandalous converſation, not without great
+ſuſpition, and many times appearance of Malignancie, and diſaffection to the Common-wealth) your Petitioners Husband being extremely preſſed in his Con<g ref="char:EOLhyphen"/>ſcience,
+and touched with the ſenſe of the unjuſtneſſe and unwarrantableneſſe of ſuch proceedings; and being much more deſirous to forward the work of Re<g ref="char:EOLhyphen"/>formation
+(by Gods providence then newly begun) then to have a hand in the nouriſhing of ignorance, and ſetting up of prophaneſſe and licenciouſneſſe, (ne<g ref="char:EOLhyphen"/>ceſſary
+conſequences of this new intended Miniſter) out of his duty to God, the Common-wealth, and the Pariſh wherein he lived; and of his care to the ho<g ref="char:EOLhyphen"/>nour
+of the Parliament, and in particular of Sir <hi>John Danvers,</hi> whoſe power muſt neceſſarily be made uſe of to effect it, your Petitioners husband conceived he
+had good cauſe to give notice of the premiſes to the ſaid Sir <hi>John Danvers,</hi> and to pray an excuſe from ſuch ſervice.</p>
+            <p>Whereupon the ſaid Sir <hi>John Danvers</hi> (returning for the preſent a diſpleaſed anſwer) gave order in ſhort time after, for the ſpeedy removing of your Peti<g ref="char:EOLhyphen"/>tioner
+out of the ſaid Living, aſſigning to the ſaid intended Miniſter <hi>Yates,</hi> thereby neceſſitating your Petitioners Husband to make ſudden proviſion for his Fa<g ref="char:EOLhyphen"/>mily
+elſewhere, means being uſed to caſt him out thence by Ejectment: who underſtanding of a promiſe and intention (as was ſuppoſed) in the ſaid Sir <hi>John
+Danvers,</hi> to pay in your Petitioners portion to Sir <hi>Samuell Danvers,</hi> her brother, your Petitioners Husband was encouraged to contract for a Living in the ſame
+County, which might have been of great advantage to him; but could not prevail by any means poſſible, with the ſaid Sir <hi>John Danvers,</hi> to pay in the ſaid por<g ref="char:EOLhyphen"/>tion,
+or any part thereof; yet was threatned with a ſuit at Law from the ſaid Sir <hi>John Danvers,</hi> for not avoiding according to order, inſomuch that he could
+not any longer endevour for the ſaid money, for danger of being arreſted; and not long after (for want of money to goe on with his ſaid bargain) was, upon
+breach of Covenant, caſt into priſon, where falling very dangerouſly ſick, and your Petitioner being conſtrained to come up to him, the ſaid Sir <hi>John Danvers</hi> (in
+her abſence, being with her ſick husband in priſon) gave order to the ſaid intended Miniſter <hi>Yates,</hi> to break into your Petitioners houſe at <hi>Stowe,</hi> by force of
+armes, amongſt all her goods, and to keep poſſeſſion there from your Petitioner: who by that means (notwithſtanding her relation to Sir <hi>John Danvers</hi> as his
+Kinſwoman, her being left to his care by her deceaſed Father, her livelihood all in his hands, and having been to his knowledge for at leaſt theſe twenty yeares in
+an extreme weak and diſeaſed condition, now grown to that extremity by occaſion of theſe troubles, that ſhe is in danger to periſh for want of means to pro<g ref="char:EOLhyphen"/>vide
+againſt it) had now nothing at all left her, but a priſon for a ſhelter, and the charity of friends and well-diſpoſed perſons, for ſubſiſtence of her ſelf and poor
+Children, her husband being in no capacity to make any proviſion for them: And notwithſtanding your Petitioners many ſupplications to the ſaid Sir <hi>John
+Danvers</hi> at ſeverall times, and in this her diſtreſſed and lamentable condition, yet no anſwer could be obtained, but threats of Law, and expreſſions of diſplea<g ref="char:EOLhyphen"/>ſure,
+and all this (as is conceived) for no other reaſon, but to deterre and diſable your Petitioner from ſeeking after her right, and to ruine her Husband for op<g ref="char:EOLhyphen"/>poſing
+the ſaid <hi>Yates,</hi> although it was in order to the diſcharging of his conſcience, and manifeſting his conſtancy to his principles, and reall affection to the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>So that your Petitioner, (being the eldeſt child of the Teſtator (having lent him one hundred pounds for above forty yeeres, upon condition as
+aboveſaid, at ſuch time when it was of moſt advantage to him, and now ſtayed much the longeſt for her portion (notwithſtanding the ſaid Sir <hi>John
+Danvers</hi> hath in his owne hands two thouſand five hundred pounds, and Bonds for above three thouſand pounds more, in danger to be loſt for want
+of looking after) is now like to be defrauded of her eſtate, and with her ſmall children impoveriſhed and undone, by means of an unlimited power,
+procured to the ſaid Sir <hi>John Danvers</hi> by his ſaid ſervant <hi>Yates,</hi> who under pretence of love to the Teſtator, and care of his Family, had obtained a
+hand in drawing the ſaid Will. So that with the oppreſſor there is great power, but on the ſide of the oppreſſed there is no helper, unleſſe it ſhall
+pleaſe God to move your Honours to commiſerate her ſad condition, ſhe having not left her (out of Sir <hi>John Danvers</hi> his hands) wherewithall to
+ſubſiſt, much leſſe (by the tedious and chargeable way of Law, were it that way recoverable) to contend with ſo mighty an Adverſary.</p>
+            <p>Having therefore no other means to avoid ſuch cruelty, your Petitioner is neceſſitated to flye unto your Honours for refuge and protection, and
+in this day of her great calamity to implore your favourable aſſiſtance, that ſo the cryes and grones of the afflicted and oppreſſed, by your timely
+juſtice (eſpecially againſt the mighty, that are ſo able to break in peeces, and ſtamp under foot) may be turned into prayers to that great Protector
+of States, for a bleſſing upon your counſells and undertakings, And no place found for that Woe, ſo long agoe denounced againſt thoſe that ſhall
+<hi>neglect to judge the cauſe of the fatherleſſe, or ſhall ſtop their eares againſt the cryes of the oppreſſed.</hi>
+            </p>
+            <p>To which end your Petitioner humbly prayeth, That the hearing and examination of the truth of her ſaid Caſe, may be referred by your Honours
+to ſome ſuch unintereſſed perſons as ſhall be nominated by you, and have power from you to end and determine the ſame, that ſhe may not onely
+receive out of her ſaid Fathers eſtate, her ſaid portion of one thouſand pounds, with dammages for forbearance, As alſo the ſaid hundred pounds,
+with intereſt from the time that it was upon that condition lent to the Teſtator, there being ſufficient of the Teſtators eſtate in the ſaid Sir <hi>John
+Danvers</hi> hand and power to diſcharge the ſame, over and above all other claimes thereunto.</p>
+            <p>But likewiſe that her ſaid Husband may by ſome means be ſecured from ſuch unneceſſary ſuits, as from the ſaid Sir <hi>John Danvers</hi> are threatned
+againſt him, and already brought againſt ſuch other of the pariſh, to their almoſt utter undoing, as out of conſcience could not adhere to the ſaid
+<hi>Yates:</hi> He having offered, and is ſtill ready, to give all juſt and faire ſatisfaction that ſhall be required from him.</p>
+            <closer>For which your Petitioner, and her poore Children, ſhall pray, &amp;c.
+<signed>Anne Smyth.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
